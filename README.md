@@ -220,24 +220,6 @@ The homepage asks for the user to upload a JPEG of any size into the application
 Upon pressing SUBMIT, you automatically get transferred to the Results page, and you are given a message to get the mole checked out or that it is just another beauty mark.  The confidence level of that prediction is also given.
    
 
-## Folder Structure:
-
-	├── README.md                   <- the top-level README for reviewers of this project
-	├── _notebooks					<- folder containing all the project notebooks
-	│   ├── albumentation.ipynb		<- notebook for displaying augmentations
-	│   ├── EDA.ipynb				<- notebook for dataset understanding and EDA
-	│   ├── folders.ipynb			<- notebook for image folder management
-	│   ├── holdout.ipynb			<- notebook for predicting on holdout sets
-	│   ├── preaugmentation.ipynb	<- notebook for models with imbalanced dataset
-	│   ├── postaugmentation.ipynb	<- notebook for models with dataset post-augmentations
-	│   ├── pretrained.ipynb		<- notebook for pretrained models
-	│   └── utils.py  				<- py file with self-defined functions
-	├── final_notebook.ipynb        <- final notebook for capstone project
-	├── _data                       <- folder of csv files (csv)
-	├── MVP Presentation.pdf		<- pdf of the MVP presentation
-	├── _Melanoma-Flask				<- folder with Flask application
-	└── utils.py					<- py file with self-defined functions
-
 
 
 
